@@ -1,0 +1,51 @@
+style_add_button_off = (u"/* \u041a\u043d\u043e\u043f\u043a\u0430 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f (OK) */\n"
+"QPushButton {\n"
+"background-color: rgb(128, 128, 128);\n"
+"color: rgb(255, 255, 255);\n"
+"border-radius: 5px;\n"
+"padding: 5px 10px;\n"
+"border: none;\n"
+"text-align: center;\n"
+"}\n"
+"QPushButton:hover {\n"
+"background-color: rgb(164, 118, 233);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-color: rgb(139, 88, 217);\n"
+"}\n"
+"")
+
+style_add_button_on = (u"/* \u041a\u043d\u043e\u043f\u043a\u0430 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f (OK) */\n"
+"QPushButton {\n"
+"background-color: rgb(189, 147, 249);\n"
+"color: rgb(255, 255, 255);\n"
+"border-radius: 5px;\n"
+"padding: 5px 10px;\n"
+"border: none;\n"
+"text-align: center;\n"
+"}\n"
+"QPushButton:hover {\n"
+"background-color: rgb(164, 118, 233);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-color: rgb(139, 88, 217);\n"
+"}\n"
+"")
+
+style_add_photo_man = (u"background-color: rgb(33, 37, 43);\n"
+"image: url(:/images/images/images/real_man.png);\n"
+"background-position: center center;\n"
+"background-repeat: no-repeat;\n"
+"border-radius: 10px;\n"
+"margin: 7px;")
+
+
+style_add_photo_woman = (u"background-color: rgb(33, 37, 43);\n"
+"image: url(:/images/images/images/real_woman.png);\n"
+"background-position: center center;\n"
+"background-repeat: no-repeat;\n"
+"border-radius: 10px;\n"
+"margin: 7px;")
+

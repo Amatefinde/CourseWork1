@@ -1,0 +1,3 @@
+there should be arkface models in onnx format, but they are too big for githab
+
+download and put them here https://drive.google.com/drive/folders/1WRVW_ZuL_yq84kgLRbWcjghT4Q52OTOH?usp=drive_link
